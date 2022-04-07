@@ -6,4 +6,4 @@ All activities are gonna be made in English, except by some answers or questions
 Before you go ahead:
 If you enjoy working with Batch Scripts, take a look at my "Telecom" repository, where I've been developing some telnet/ssh and clipboard automation solutions.
 
-Thanks for visiting this humble profile ;)
+Thanks for visiting this humble profile hahaha
